@@ -3,7 +3,7 @@ def using_while
 	outputString = ""
 	while levitation_force < 11
 	   outputString += "Wingardium Leviosa\n"
-	   levitation_force += 4 
+	   levitation_force += 1 
 	end
 	return outputString
 end
